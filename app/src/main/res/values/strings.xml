@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vaderapp_mnu1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_weekly">WeeklyActivity</string>
+
+    <string-array name="location_list">
+        <item>Stockholm</item>
+        <item>Copenhagen</item>
+        <item>Helsinki</item>
+    </string-array>
+</resources>
