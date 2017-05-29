@@ -12,12 +12,12 @@ android {
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
-<<<<<<< HEAD
+
         debug {
             debuggable true
         }
-=======
->>>>>>> 2949bad3e16099f446c971dff38a21b026eb29e4
+
+
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
